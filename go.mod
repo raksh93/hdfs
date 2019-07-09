@@ -1,4 +1,4 @@
-module github.com/colinmarc/hdfs
+module github.com/raksh93/hdfs
 
 require (
 	github.com/davecgh/go-spew v1.1.0 // indirect

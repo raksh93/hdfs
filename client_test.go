@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/colinmarc/hdfs/hadoopconf"
+	"github.com/raksh93/hdfs/hadoopconf"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	krb "gopkg.in/jcmturner/gokrb5.v5/client"
